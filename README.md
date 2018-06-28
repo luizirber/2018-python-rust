@@ -4,6 +4,8 @@
 
 - Department of Population Health and Reproduction, University of California, Davis, USA
 
+[![DOI](https://img.shields.io/badge/DOI-10.7490%2Ff1000research.1115726.1-orange.svg)](https://dx.doi.org/10.7490/f1000research.1115726.1)
+
 Poster presented at [GCCBOSC 2018][1].
 
 ## Abstract
