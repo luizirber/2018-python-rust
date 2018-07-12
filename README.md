@@ -6,7 +6,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.7490%2Ff1000research.1115726.1-orange.svg)](https://dx.doi.org/10.7490/f1000research.1115726.1)
 
-Poster presented at [GCCBOSC 2018][1].
+Poster presented at [GCCBOSC 2018][1] and [SciPy 2018][2].
 
 ## Abstract
 
@@ -43,3 +43,4 @@ using sourmash as an example.
 
 
 [1]: https://gccbosc2018.sched.com/
+[2]: https://scipy2018.scipy.org/ehome/index.php?eventid=299527&tabid=712461&cid=2233543&sessionid=21618890&sessionchoice=1&
