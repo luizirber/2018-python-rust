@@ -42,5 +42,5 @@ using sourmash as an example.
 - Titus Brown, C., and Luiz Irber. 2016. “sourmash: A Library for MinHash Sketching of DNA.” The Journal of Open Source Software 1 (5). https://dx.doi.org/10.21105/joss.00027
 
 
-[1]: https://gccbosc2018.sched.com/
+[1]: https://gccbosc2018.sched.com/event/FEWp/b23-oxidizing-python-writing-extensions-in-rust
 [2]: https://scipy2018.scipy.org/ehome/index.php?eventid=299527&tabid=712461&cid=2233543&sessionid=21618890&sessionchoice=1&
